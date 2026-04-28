@@ -1,0 +1,18 @@
+{
+  "id": "2c19413f-81ef-4359-80f8-2eee90b60c7a",
+  "section_id": "c1b7705d-f7f2-4327-9b1c-1390661de401",
+  "title": "Firefly Optimization Guide",
+  "slug": "firefly-optimization-guide",
+  "type": "folder",
+  "icon": "activity",
+  "order": 2,
+  "source_metadata": {},
+  "metadata": {},
+  "metadata_visibility": {
+    "show_author": true,
+    "show_reading_time": true,
+    "show_publish_date": true,
+    "show_update_date": true,
+    "show_tags": true
+  }
+}

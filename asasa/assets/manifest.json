@@ -1,0 +1,176 @@
+[
+  {
+    "id": "a0a7967d-c6ce-439f-ac5c-0cc3ede32370",
+    "name": "logo",
+    "original_name": "1001090909.jpg",
+    "type": "image",
+    "mime_type": "image/jpeg",
+    "size": 249211,
+    "filename": "a0a7967d-c6ce-439f-ac5c-0cc3ede32370.jpg"
+  },
+  {
+    "id": "419accfa-2e4d-4e60-baaa-9b33c31ca625",
+    "name": "17769746042264436294105734928961.jpg",
+    "original_name": "17769746042264436294105734928961.jpg",
+    "type": "image",
+    "mime_type": "image/jpeg",
+    "size": 6550308,
+    "filename": "419accfa-2e4d-4e60-baaa-9b33c31ca625.jpg"
+  },
+  {
+    "id": "55435fdc-6cc3-4929-b863-818315b7b37f",
+    "name": "Header image for Applying Boundary Constraints",
+    "original_name": "header-applying-boundary-constraints.png",
+    "type": "image",
+    "mime_type": "image/png",
+    "size": 304695,
+    "alt": "Applying Boundary Constraints",
+    "filename": "55435fdc-6cc3-4929-b863-818315b7b37f.png"
+  },
+  {
+    "id": "e8e2eda4-2335-4916-8eb3-350b5d2dce76",
+    "name": "Header image for Tuning Performance Parameters",
+    "original_name": "header-tuning-performance-parameters.png",
+    "type": "image",
+    "mime_type": "image/png",
+    "size": 276819,
+    "alt": "Tuning Performance Parameters",
+    "filename": "e8e2eda4-2335-4916-8eb3-350b5d2dce76.png"
+  },
+  {
+    "id": "808156e3-fa22-4ba0-8e0d-311fe4708147",
+    "name": "Header image for Understanding the Firefly Algorithm",
+    "original_name": "header-understanding-the-firefly-algorithm.png",
+    "type": "image",
+    "mime_type": "image/png",
+    "size": 379254,
+    "alt": "Understanding the Firefly Algorithm",
+    "filename": "808156e3-fa22-4ba0-8e0d-311fe4708147.png"
+  },
+  {
+    "id": "2ffadb35-357e-4493-9487-29cd206108c8",
+    "name": "Header image for Evaluating Optimization Results",
+    "original_name": "header-evaluating-optimization-results.png",
+    "type": "image",
+    "mime_type": "image/png",
+    "size": 408726,
+    "alt": "Evaluating Optimization Results",
+    "filename": "2ffadb35-357e-4493-9487-29cd206108c8.png"
+  },
+  {
+    "id": "ebb72343-ff05-4ec2-976d-7b91e12b0fcb",
+    "name": "Header image for Setting Up Your Forensic Environment",
+    "original_name": "header-setting-up-your-forensic-environment.png",
+    "type": "image",
+    "mime_type": "image/png",
+    "size": 330586,
+    "alt": "Setting Up Your Forensic Environment",
+    "filename": "ebb72343-ff05-4ec2-976d-7b91e12b0fcb.png"
+  },
+  {
+    "id": "df8b6561-c858-480a-9449-cb75cb0442c1",
+    "name": "Header image for Acquiring Digital Evidence Securely",
+    "original_name": "header-acquiring-digital-evidence-securely.png",
+    "type": "image",
+    "mime_type": "image/png",
+    "size": 370076,
+    "alt": "Acquiring Digital Evidence Securely",
+    "filename": "df8b6561-c858-480a-9449-cb75cb0442c1.png"
+  },
+  {
+    "id": "b93e2e45-a425-4ed9-b87e-857292cf6569",
+    "name": "Header image for Analyzing Artifacts and File Systems",
+    "original_name": "header-analyzing-artifacts-and-file-systems.png",
+    "type": "image",
+    "mime_type": "image/png",
+    "size": 372732,
+    "alt": "Analyzing Artifacts and File Systems",
+    "filename": "b93e2e45-a425-4ed9-b87e-857292cf6569.png"
+  },
+  {
+    "id": "848bc289-149a-4a2a-adb2-5d6c700c806f",
+    "name": "Header image for Generating Comprehensive Forensic Reports",
+    "original_name": "header-generating-comprehensive-forensic-reports.png",
+    "type": "image",
+    "mime_type": "image/png",
+    "size": 393663,
+    "alt": "Generating Comprehensive Forensic Reports",
+    "filename": "848bc289-149a-4a2a-adb2-5d6c700c806f.png"
+  },
+  {
+    "id": "62f1dd15-872e-4192-93fb-eddafde13721",
+    "name": "asasas.jpg",
+    "original_name": "asasas.jpg",
+    "type": "image",
+    "mime_type": "image/jpeg",
+    "size": 28215,
+    "filename": "62f1dd15-872e-4192-93fb-eddafde13721.jpg"
+  },
+  {
+    "id": "1d4482d3-df0f-4c1a-b378-9a56e8cba6fe",
+    "name": "asasas.jpg",
+    "original_name": "asasas.jpg",
+    "type": "image",
+    "mime_type": "image/jpeg",
+    "size": 28215,
+    "filename": "1d4482d3-df0f-4c1a-b378-9a56e8cba6fe.jpg"
+  },
+  {
+    "id": "bf579c22-6739-4e52-b570-3581ea1e3c40",
+    "name": "Header image for Getting Started with Cryptohack",
+    "original_name": "header-getting-started-with-cryptohack.png",
+    "type": "image",
+    "mime_type": "image/png",
+    "size": 304719,
+    "alt": "Getting Started with Cryptohack",
+    "filename": "bf579c22-6739-4e52-b570-3581ea1e3c40.png"
+  },
+  {
+    "id": "cb51a802-d3e0-4144-87e4-2a779dee73ac",
+    "name": "Header image for Implementing the Firefly Algorithm",
+    "original_name": "header-implementing-the-firefly-algorithm.png",
+    "type": "image",
+    "mime_type": "image/png",
+    "size": 293167,
+    "alt": "Implementing the Firefly Algorithm",
+    "filename": "cb51a802-d3e0-4144-87e4-2a779dee73ac.png"
+  },
+  {
+    "id": "8a750147-5369-46a5-b2f7-c00c01636b4a",
+    "name": "Header image for Tuning and Evaluating Performance",
+    "original_name": "header-tuning-and-evaluating-performance.png",
+    "type": "image",
+    "mime_type": "image/png",
+    "size": 263132,
+    "alt": "Tuning and Evaluating Performance",
+    "filename": "8a750147-5369-46a5-b2f7-c00c01636b4a.png"
+  },
+  {
+    "id": "018e4ce2-43f0-4f06-b653-e16be4ec0853",
+    "name": "Header image for Understanding the Firefly Algorithm",
+    "original_name": "header-understanding-the-firefly-algorithm.png",
+    "type": "image",
+    "mime_type": "image/png",
+    "size": 379744,
+    "alt": "Understanding the Firefly Algorithm",
+    "filename": "018e4ce2-43f0-4f06-b653-e16be4ec0853.png"
+  },
+  {
+    "id": "2ce55959-86f4-4a06-8b30-aff89af26fa9",
+    "name": "asasas.jpg",
+    "original_name": "asasas.jpg",
+    "type": "image",
+    "mime_type": "image/jpeg",
+    "size": 28215,
+    "filename": "2ce55959-86f4-4a06-8b30-aff89af26fa9.jpg"
+  },
+  {
+    "id": "018b42cc-0ad5-4e1d-8d8e-826c4e665177",
+    "name": "asasas.jpg",
+    "original_name": "asasas.jpg",
+    "type": "image",
+    "mime_type": "image/jpeg",
+    "size": 28215,
+    "filename": "018b42cc-0ad5-4e1d-8d8e-826c4e665177.jpg"
+  }
+]

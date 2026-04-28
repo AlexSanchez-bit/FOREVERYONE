@@ -1,0 +1,10 @@
+{
+  "id": "c1b7705d-f7f2-4327-9b1c-1390661de401",
+  "version_id": "f6be93f0-a176-4aba-b799-afb928d6e4b4",
+  "name": "User Guideasas",
+  "slug": "user-guideasas",
+  "type": "product_documentation",
+  "icon": "pi pi-exclamation-triangle",
+  "order": 1,
+  "visible": true
+}

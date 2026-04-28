@@ -1,0 +1,48 @@
+{
+  "schema_version": "1",
+  "id": "9caa4650-fba0-4b1a-a67e-ff2edaf03421",
+  "organization_id": "bdab3740-f055-4d1d-86c8-84ed81512d0d",
+  "name": "jojoij212joijioj",
+  "description": "212",
+  "audience": "public",
+  "status": "generated",
+  "config": {
+    "theme": {
+      "dark": {
+        "bg_color": "#0a0a0a",
+        "text_color": "#ededed",
+        "accent_color": "#3b82f6"
+      },
+      "light": {
+        "bg_color": "#fafafa",
+        "text_color": "#171717",
+        "accent_color": "#2563eb",
+        "logo_url": "/documentation/bdab3740-f055-4d1d-86c8-84ed81512d0d/9caa4650-fba0-4b1a-a67e-ff2edaf03421/asset/a0a7967d-c6ce-439f-ac5c-0cc3ede32370/file"
+      },
+      "modes": [
+        "light"
+      ],
+      "default": "light",
+      "font_family": "Inter",
+      "show_name": true
+    },
+    "seo": {
+      "title_template": "%s | Documentation"
+    },
+    "footer": {
+      "enabled": false
+    },
+    "kb": {
+      "enabled": true,
+      "name": "Help Center",
+      "hero_title": "How can we help?",
+      "hero_description": "Search our knowledge base for answers to your questions",
+      "hero_placeholder": "Search for articles...",
+      "show_categories": false,
+      "show_popular_articles": true,
+      "popular_title": "Popular Articles"
+    }
+  },
+  "version_selector_enabled": true,
+  "version_selector_position": "navbar_right"
+}

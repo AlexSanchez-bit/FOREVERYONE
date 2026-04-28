@@ -1,0 +1,29 @@
+{
+  "id": "1c93f67d-9b0b-488f-865d-22f4201ede84",
+  "section_id": "07e55c77-c9b5-4199-aee0-434ed2413c65",
+  "title": "CryptoHack Challenge Updates",
+  "slug": "cryptohack-challenge-updates",
+  "type": "page",
+  "order": 0,
+  "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"changelogBlock\",\"attrs\":{\"title\":\"CryptoHack Challenge Updates\",\"description\":\"Welcome to our changelog, where you can explore the latest updates, bug fixes, and new features added to our CryptoHack challenge summaries.\"},\"content\":[{\"type\":\"updateBlock\",\"attrs\":{\"label\":\"April 20, 2026\",\"description\":\"vmath'\",\"tags\":\"math', new, feature\",\"prerelease\":false,\"author\":\"AlexSanchez-bit\",\"href\":\"https://github.com/AlexSanchez-bit/cryptohack-practice/releases/tag/math'\",\"id\":\"math\"},\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"5e9020fe-6c57-4a80-9a4b-4a1d4ea0a1aa\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"We've added a complete summary of the first-stage challenges from CryptoHack! This release covers the initial course materials, providing a solid foundation for tackling cryptography basics.\"}]},{\"type\":\"infoBlock\",\"attrs\":{\"id\":\"info-1776692811798-825egvpv1\",\"type\":\"tip\"},\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"If you're just getting started with cryptography, these foundational math challenges are the perfect place to begin.\"}]}]}]}]},{\"type\":\"paragraph\"}]}",
+  "source_metadata": {
+    "resources": [
+      {
+        "resource_id": "4936d8bd-823e-4adc-ba34-f3f157b480e7",
+        "resource_name": "",
+        "resource_type": "repository",
+        "content_hash": "a92f95ab81873d981d9907ff7fcce0ef432a6089299947000db2d6bb415c9514",
+        "source_version": "2026-04-20T13:44:58Z|a92f95ab"
+      }
+    ],
+    "generated_at": "2026-04-20T13:45:42.812988+00:00"
+  },
+  "metadata": {},
+  "metadata_visibility": {
+    "show_author": true,
+    "show_reading_time": true,
+    "show_publish_date": true,
+    "show_update_date": true,
+    "show_tags": true
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "07e55c77-c9b5-4199-aee0-434ed2413c65",
+  "version_id": "f6be93f0-a176-4aba-b799-afb928d6e4b4",
+  "name": "Custom8",
+  "slug": "custom8",
+  "type": "changelog",
+  "icon": "pi pi-cloud",
+  "order": 2,
+  "visible": true
+}
