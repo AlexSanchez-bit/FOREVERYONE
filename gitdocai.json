@@ -1,5 +1,5 @@
 {
-  "schema_version": "1",
+  "schema_version": "2",
   "id": "bf9808a4-eafc-4949-ba03-b0d91ac851be",
   "organization_id": "bdab3740-f055-4d1d-86c8-84ed81512d0d",
   "name": "jojoij212joijioj",
@@ -66,6 +66,7 @@
           "pages": [
             {
               "id": "1c93f67d-9b0b-488f-865d-22f4201ede84",
+              "section_id": "07e55c77-c9b5-4199-aee0-434ed2413c65",
               "title": "CryptoHack Challenge Updates",
               "slug": "cryptohack-challenge-updates",
               "type": "page",
@@ -89,10 +90,12 @@
                 "show_publish_date": true,
                 "show_update_date": true,
                 "show_tags": true
-              }
+              },
+              "content_path": "v1/custom8/cryptohack-challenge-updates.mdx"
             },
             {
               "id": "5e9020fe-6c57-4a80-9a4b-4a1d4ea0a1aa",
+              "section_id": "07e55c77-c9b5-4199-aee0-434ed2413c65",
               "title": "CryptoHack Challenge Updates",
               "slug": "cryptohack-challenge-updates",
               "type": "page",
@@ -116,7 +119,8 @@
                 "show_publish_date": true,
                 "show_update_date": true,
                 "show_tags": true
-              }
+              },
+              "content_path": "v1/custom8/cryptohack-challenge-updates-2.mdx"
             }
           ]
         },
@@ -133,6 +137,7 @@
           "pages": [
             {
               "id": "254573e2-7d45-43a6-8fa6-8e56dce35668",
+              "section_id": "38966cd9-edff-4c35-bd58-42e52b617c03",
               "title": "Setting Up Your Forensic Environment",
               "slug": "setup-forensic-environment",
               "type": "page",
@@ -145,26 +150,12 @@
                 "show_publish_date": true,
                 "show_update_date": true,
                 "show_tags": true
-              }
-            },
-            {
-              "id": "9d738ba5-53b8-43dd-ad06-14ec101d1cce",
-              "title": "Generating Comprehensive Forensic Reports",
-              "slug": "generating-forensic-reports",
-              "type": "page",
-              "order": 3,
-              "source_metadata": {},
-              "metadata": {},
-              "metadata_visibility": {
-                "show_author": true,
-                "show_reading_time": true,
-                "show_publish_date": true,
-                "show_update_date": true,
-                "show_tags": true
-              }
+              },
+              "content_path": "v1/custom/setup-forensic-environment.mdx"
             },
             {
               "id": "a4fbcb75-9e9e-4e2a-9ce1-554c67d9dbf1",
+              "section_id": "38966cd9-edff-4c35-bd58-42e52b617c03",
               "title": "Acquiring Digital Evidence Securely",
               "slug": "acquiring-digital-evidence",
               "type": "page",
@@ -177,26 +168,12 @@
                 "show_publish_date": true,
                 "show_update_date": true,
                 "show_tags": true
-              }
-            },
-            {
-              "id": "b63ea264-501e-4474-aa59-b27fb997dec0",
-              "title": "blank",
-              "slug": "blank",
-              "type": "page",
-              "order": 4,
-              "source_metadata": {},
-              "metadata": {},
-              "metadata_visibility": {
-                "show_author": true,
-                "show_reading_time": true,
-                "show_publish_date": true,
-                "show_update_date": true,
-                "show_tags": true
-              }
+              },
+              "content_path": "v1/custom/acquiring-digital-evidence.mdx"
             },
             {
               "id": "e8a1442e-5b9d-4817-bf1f-4e0bc7a88a37",
+              "section_id": "38966cd9-edff-4c35-bd58-42e52b617c03",
               "title": "Analyzing Artifacts and File Systems",
               "slug": "analyzing-artifacts-file-systems",
               "type": "page",
@@ -209,7 +186,44 @@
                 "show_publish_date": true,
                 "show_update_date": true,
                 "show_tags": true
-              }
+              },
+              "content_path": "v1/custom/analyzing-artifacts-file-systems.mdx"
+            },
+            {
+              "id": "9d738ba5-53b8-43dd-ad06-14ec101d1cce",
+              "section_id": "38966cd9-edff-4c35-bd58-42e52b617c03",
+              "title": "Generating Comprehensive Forensic Reports",
+              "slug": "generating-forensic-reports",
+              "type": "page",
+              "order": 3,
+              "source_metadata": {},
+              "metadata": {},
+              "metadata_visibility": {
+                "show_author": true,
+                "show_reading_time": true,
+                "show_publish_date": true,
+                "show_update_date": true,
+                "show_tags": true
+              },
+              "content_path": "v1/custom/generating-forensic-reports.mdx"
+            },
+            {
+              "id": "b63ea264-501e-4474-aa59-b27fb997dec0",
+              "section_id": "38966cd9-edff-4c35-bd58-42e52b617c03",
+              "title": "blank",
+              "slug": "blank",
+              "type": "page",
+              "order": 4,
+              "source_metadata": {},
+              "metadata": {},
+              "metadata_visibility": {
+                "show_author": true,
+                "show_reading_time": true,
+                "show_publish_date": true,
+                "show_update_date": true,
+                "show_tags": true
+              },
+              "content_path": "v1/custom/blank.mdx"
             }
           ]
         },
@@ -225,6 +239,7 @@
           "pages": [
             {
               "id": "0f46697b-e93f-4aa0-95ed-3f9d22c02bfe",
+              "section_id": "c1b7705d-f7f2-4327-9b1c-1390661de401",
               "title": "another one",
               "slug": "another-one",
               "type": "folder",
@@ -237,10 +252,31 @@
                 "show_publish_date": true,
                 "show_update_date": true,
                 "show_tags": true
-              }
+              },
+              "content_path": "v1/user-guideasas/another-one/index.mdx"
+            },
+            {
+              "id": "6c9ae581-2ce6-4f16-9670-1b89f5e9a9c1",
+              "section_id": "c1b7705d-f7f2-4327-9b1c-1390661de401",
+              "parent_id": "0f46697b-e93f-4aa0-95ed-3f9d22c02bfe",
+              "title": "mypage",
+              "slug": "mypage",
+              "type": "page",
+              "order": 0,
+              "source_metadata": {},
+              "metadata": {},
+              "metadata_visibility": {
+                "show_author": true,
+                "show_reading_time": true,
+                "show_publish_date": true,
+                "show_update_date": true,
+                "show_tags": true
+              },
+              "content_path": "v1/user-guideasas/another-one/mypage.mdx"
             },
             {
               "id": "2c19413f-81ef-4359-80f8-2eee90b60c7a",
+              "section_id": "c1b7705d-f7f2-4327-9b1c-1390661de401",
               "title": "Firefly Optimization Guide",
               "slug": "firefly-optimization-guide",
               "type": "folder",
@@ -254,12 +290,15 @@
                 "show_publish_date": true,
                 "show_update_date": true,
                 "show_tags": true
-              }
+              },
+              "content_path": "v1/user-guideasas/firefly-optimization-guide/index.mdx"
             },
             {
-              "id": "46528546-0bdf-40bd-9977-6864e7261ddc",
-              "title": "sasasas",
-              "slug": "sasasas",
+              "id": "4eaba559-f89d-4ce5-80db-3763296d8ec3",
+              "section_id": "c1b7705d-f7f2-4327-9b1c-1390661de401",
+              "parent_id": "2c19413f-81ef-4359-80f8-2eee90b60c7a",
+              "title": "mygroup",
+              "slug": "mygroup",
               "type": "folder",
               "order": 1,
               "source_metadata": {},
@@ -270,10 +309,13 @@
                 "show_publish_date": true,
                 "show_update_date": true,
                 "show_tags": true
-              }
+              },
+              "content_path": "v1/user-guideasas/firefly-optimization-guide/mygroup/index.mdx"
             },
             {
               "id": "4b0f2f43-410a-4ea5-8c33-e4e330efc599",
+              "section_id": "c1b7705d-f7f2-4327-9b1c-1390661de401",
+              "parent_id": "4eaba559-f89d-4ce5-80db-3763296d8ec3",
               "title": "Understanding the Firefly Algorithm",
               "slug": "understanding-firefly-algorithm",
               "type": "page",
@@ -296,12 +338,15 @@
                 "show_publish_date": true,
                 "show_update_date": true,
                 "show_tags": true
-              }
+              },
+              "content_path": "v1/user-guideasas/firefly-optimization-guide/mygroup/understanding-firefly-algorithm.mdx"
             },
             {
-              "id": "4eaba559-f89d-4ce5-80db-3763296d8ec3",
-              "title": "mygroup",
-              "slug": "mygroup",
+              "id": "46528546-0bdf-40bd-9977-6864e7261ddc",
+              "section_id": "c1b7705d-f7f2-4327-9b1c-1390661de401",
+              "parent_id": "4eaba559-f89d-4ce5-80db-3763296d8ec3",
+              "title": "sasasas",
+              "slug": "sasasas",
               "type": "folder",
               "order": 1,
               "source_metadata": {},
@@ -312,94 +357,13 @@
                 "show_publish_date": true,
                 "show_update_date": true,
                 "show_tags": true
-              }
-            },
-            {
-              "id": "06b4792f-b376-4876-8d1c-4e692e665fa1",
-              "title": "Tuning Performance Parameters",
-              "slug": "tuning-performance-parameters",
-              "type": "page",
-              "order": 3,
-              "source_metadata": {
-                "resources": [
-                  {
-                    "resource_id": "bb437e74-b586-4d8a-aecd-395767a082d0",
-                    "resource_name": "firefly.pdf",
-                    "resource_type": "file",
-                    "content_hash": "8e3fe6a9f63fb076b5baa8fbaf680fe1cb8a1c824a2bf6116d4500c1dbd3114d"
-                  }
-                ],
-                "generated_at": "2026-04-20T13:30:22.012389+00:00"
               },
-              "metadata": {},
-              "metadata_visibility": {
-                "show_author": true,
-                "show_reading_time": true,
-                "show_publish_date": true,
-                "show_update_date": true,
-                "show_tags": true
-              }
-            },
-            {
-              "id": "6c9ae581-2ce6-4f16-9670-1b89f5e9a9c1",
-              "title": "mypage",
-              "slug": "mypage",
-              "type": "page",
-              "order": 0,
-              "source_metadata": {},
-              "metadata": {},
-              "metadata_visibility": {
-                "show_author": true,
-                "show_reading_time": true,
-                "show_publish_date": true,
-                "show_update_date": true,
-                "show_tags": true
-              }
-            },
-            {
-              "id": "7f57910a-f0a3-4d99-8248-c854c900d0eb",
-              "title": "newsection",
-              "slug": "newsection",
-              "type": "page",
-              "order": 2,
-              "source_metadata": {},
-              "metadata": {},
-              "metadata_visibility": {
-                "show_author": true,
-                "show_reading_time": true,
-                "show_publish_date": true,
-                "show_update_date": true,
-                "show_tags": true
-              }
-            },
-            {
-              "id": "9e30109c-e47e-45e2-ac38-cbe68c6f0917",
-              "title": "Applying Boundary Constraints",
-              "slug": "applying-boundary-constraints",
-              "type": "page",
-              "order": 1,
-              "source_metadata": {
-                "resources": [
-                  {
-                    "resource_id": "bb437e74-b586-4d8a-aecd-395767a082d0",
-                    "resource_name": "firefly.pdf",
-                    "resource_type": "file",
-                    "content_hash": "8e3fe6a9f63fb076b5baa8fbaf680fe1cb8a1c824a2bf6116d4500c1dbd3114d"
-                  }
-                ],
-                "generated_at": "2026-04-20T13:29:52.934913+00:00"
-              },
-              "metadata": {},
-              "metadata_visibility": {
-                "show_author": true,
-                "show_reading_time": true,
-                "show_publish_date": true,
-                "show_update_date": true,
-                "show_tags": true
-              }
+              "content_path": "v1/user-guideasas/firefly-optimization-guide/mygroup/sasasas/index.mdx"
             },
             {
               "id": "e9e85b7e-4d37-4ba0-a600-9460bd8fd3f2",
+              "section_id": "c1b7705d-f7f2-4327-9b1c-1390661de401",
+              "parent_id": "46528546-0bdf-40bd-9977-6864e7261ddc",
               "title": "Evaluating Optimization Results",
               "slug": "evaluating-optimization-results",
               "type": "page",
@@ -422,7 +386,85 @@
                 "show_publish_date": true,
                 "show_update_date": true,
                 "show_tags": true
-              }
+              },
+              "content_path": "v1/user-guideasas/firefly-optimization-guide/mygroup/sasasas/evaluating-optimization-results.mdx"
+            },
+            {
+              "id": "9e30109c-e47e-45e2-ac38-cbe68c6f0917",
+              "section_id": "c1b7705d-f7f2-4327-9b1c-1390661de401",
+              "parent_id": "46528546-0bdf-40bd-9977-6864e7261ddc",
+              "title": "Applying Boundary Constraints",
+              "slug": "applying-boundary-constraints",
+              "type": "page",
+              "order": 1,
+              "source_metadata": {
+                "resources": [
+                  {
+                    "resource_id": "bb437e74-b586-4d8a-aecd-395767a082d0",
+                    "resource_name": "firefly.pdf",
+                    "resource_type": "file",
+                    "content_hash": "8e3fe6a9f63fb076b5baa8fbaf680fe1cb8a1c824a2bf6116d4500c1dbd3114d"
+                  }
+                ],
+                "generated_at": "2026-04-20T13:29:52.934913+00:00"
+              },
+              "metadata": {},
+              "metadata_visibility": {
+                "show_author": true,
+                "show_reading_time": true,
+                "show_publish_date": true,
+                "show_update_date": true,
+                "show_tags": true
+              },
+              "content_path": "v1/user-guideasas/firefly-optimization-guide/mygroup/sasasas/applying-boundary-constraints.mdx"
+            },
+            {
+              "id": "7f57910a-f0a3-4d99-8248-c854c900d0eb",
+              "section_id": "c1b7705d-f7f2-4327-9b1c-1390661de401",
+              "parent_id": "46528546-0bdf-40bd-9977-6864e7261ddc",
+              "title": "newsection",
+              "slug": "newsection",
+              "type": "page",
+              "order": 2,
+              "source_metadata": {},
+              "metadata": {},
+              "metadata_visibility": {
+                "show_author": true,
+                "show_reading_time": true,
+                "show_publish_date": true,
+                "show_update_date": true,
+                "show_tags": true
+              },
+              "content_path": "v1/user-guideasas/firefly-optimization-guide/mygroup/sasasas/newsection.mdx"
+            },
+            {
+              "id": "06b4792f-b376-4876-8d1c-4e692e665fa1",
+              "section_id": "c1b7705d-f7f2-4327-9b1c-1390661de401",
+              "parent_id": "46528546-0bdf-40bd-9977-6864e7261ddc",
+              "title": "Tuning Performance Parameters",
+              "slug": "tuning-performance-parameters",
+              "type": "page",
+              "order": 3,
+              "source_metadata": {
+                "resources": [
+                  {
+                    "resource_id": "bb437e74-b586-4d8a-aecd-395767a082d0",
+                    "resource_name": "firefly.pdf",
+                    "resource_type": "file",
+                    "content_hash": "8e3fe6a9f63fb076b5baa8fbaf680fe1cb8a1c824a2bf6116d4500c1dbd3114d"
+                  }
+                ],
+                "generated_at": "2026-04-20T13:30:22.012389+00:00"
+              },
+              "metadata": {},
+              "metadata_visibility": {
+                "show_author": true,
+                "show_reading_time": true,
+                "show_publish_date": true,
+                "show_update_date": true,
+                "show_tags": true
+              },
+              "content_path": "v1/user-guideasas/firefly-optimization-guide/mygroup/sasasas/tuning-performance-parameters.mdx"
             }
           ]
         }
