@@ -1,0 +1,432 @@
+{
+  "schema_version": "1",
+  "id": "bf9808a4-eafc-4949-ba03-b0d91ac851be",
+  "organization_id": "bdab3740-f055-4d1d-86c8-84ed81512d0d",
+  "name": "jojoij212joijioj",
+  "description": "212",
+  "audience": "public",
+  "status": "generated",
+  "config": {
+    "theme": {
+      "dark": {
+        "bg_color": "#0a0a0a",
+        "text_color": "#ededed",
+        "accent_color": "#3b82f6"
+      },
+      "light": {
+        "bg_color": "#fafafa",
+        "text_color": "#171717",
+        "accent_color": "#2563eb",
+        "logo_url": "/documentation/bdab3740-f055-4d1d-86c8-84ed81512d0d/9caa4650-fba0-4b1a-a67e-ff2edaf03421/asset/a0a7967d-c6ce-439f-ac5c-0cc3ede32370/file"
+      },
+      "modes": [
+        "light"
+      ],
+      "default": "light",
+      "font_family": "Inter",
+      "show_name": true
+    },
+    "seo": {
+      "title_template": "%s | Documentation"
+    },
+    "footer": {
+      "enabled": false
+    },
+    "kb": {
+      "enabled": true,
+      "name": "Help Center",
+      "hero_title": "How can we help?",
+      "hero_description": "Search our knowledge base for answers to your questions",
+      "hero_placeholder": "Search for articles...",
+      "show_categories": false,
+      "show_popular_articles": true,
+      "popular_title": "Popular Articles"
+    }
+  },
+  "version_selector_enabled": true,
+  "version_selector_position": "navbar_right",
+  "versions": [
+    {
+      "id": "f6be93f0-a176-4aba-b799-afb928d6e4b4",
+      "name": "v1",
+      "slug": "v1",
+      "is_latest": true,
+      "is_default": true,
+      "is_deprecated": false,
+      "sections": [
+        {
+          "id": "07e55c77-c9b5-4199-aee0-434ed2413c65",
+          "version_id": "f6be93f0-a176-4aba-b799-afb928d6e4b4",
+          "name": "Custom8",
+          "slug": "custom8",
+          "type": "changelog",
+          "icon": "pi pi-cloud",
+          "order": 2,
+          "visible": true,
+          "pages": [
+            {
+              "id": "1c93f67d-9b0b-488f-865d-22f4201ede84",
+              "title": "CryptoHack Challenge Updates",
+              "slug": "cryptohack-challenge-updates",
+              "type": "page",
+              "order": 0,
+              "source_metadata": {
+                "resources": [
+                  {
+                    "resource_id": "4936d8bd-823e-4adc-ba34-f3f157b480e7",
+                    "resource_name": "",
+                    "resource_type": "repository",
+                    "content_hash": "a92f95ab81873d981d9907ff7fcce0ef432a6089299947000db2d6bb415c9514",
+                    "source_version": "2026-04-20T13:44:58Z|a92f95ab"
+                  }
+                ],
+                "generated_at": "2026-04-20T13:45:42.812988+00:00"
+              },
+              "metadata": {},
+              "metadata_visibility": {
+                "show_author": true,
+                "show_reading_time": true,
+                "show_publish_date": true,
+                "show_update_date": true,
+                "show_tags": true
+              }
+            },
+            {
+              "id": "5e9020fe-6c57-4a80-9a4b-4a1d4ea0a1aa",
+              "title": "CryptoHack Challenge Updates",
+              "slug": "cryptohack-challenge-updates",
+              "type": "page",
+              "order": 0,
+              "source_metadata": {
+                "resources": [
+                  {
+                    "resource_id": "4936d8bd-823e-4adc-ba34-f3f157b480e7",
+                    "resource_name": "",
+                    "resource_type": "repository",
+                    "content_hash": "a92f95ab81873d981d9907ff7fcce0ef432a6089299947000db2d6bb415c9514",
+                    "source_version": "2026-04-20T13:44:58Z|a92f95ab"
+                  }
+                ],
+                "generated_at": "2026-04-20T13:45:42.903323+00:00"
+              },
+              "metadata": {},
+              "metadata_visibility": {
+                "show_author": true,
+                "show_reading_time": true,
+                "show_publish_date": true,
+                "show_update_date": true,
+                "show_tags": true
+              }
+            }
+          ]
+        },
+        {
+          "id": "38966cd9-edff-4c35-bd58-42e52b617c03",
+          "version_id": "f6be93f0-a176-4aba-b799-afb928d6e4b4",
+          "name": "Custom",
+          "slug": "custom",
+          "type": "describe_with_ai",
+          "icon": "pen-line",
+          "order": 0,
+          "visible": true,
+          "prompt": "this is a forensic explanation be rudew and hard",
+          "pages": [
+            {
+              "id": "254573e2-7d45-43a6-8fa6-8e56dce35668",
+              "title": "Setting Up Your Forensic Environment",
+              "slug": "setup-forensic-environment",
+              "type": "page",
+              "order": 0,
+              "source_metadata": {},
+              "metadata": {},
+              "metadata_visibility": {
+                "show_author": true,
+                "show_reading_time": true,
+                "show_publish_date": true,
+                "show_update_date": true,
+                "show_tags": true
+              }
+            },
+            {
+              "id": "9d738ba5-53b8-43dd-ad06-14ec101d1cce",
+              "title": "Generating Comprehensive Forensic Reports",
+              "slug": "generating-forensic-reports",
+              "type": "page",
+              "order": 3,
+              "source_metadata": {},
+              "metadata": {},
+              "metadata_visibility": {
+                "show_author": true,
+                "show_reading_time": true,
+                "show_publish_date": true,
+                "show_update_date": true,
+                "show_tags": true
+              }
+            },
+            {
+              "id": "a4fbcb75-9e9e-4e2a-9ce1-554c67d9dbf1",
+              "title": "Acquiring Digital Evidence Securely",
+              "slug": "acquiring-digital-evidence",
+              "type": "page",
+              "order": 1,
+              "source_metadata": {},
+              "metadata": {},
+              "metadata_visibility": {
+                "show_author": true,
+                "show_reading_time": true,
+                "show_publish_date": true,
+                "show_update_date": true,
+                "show_tags": true
+              }
+            },
+            {
+              "id": "b63ea264-501e-4474-aa59-b27fb997dec0",
+              "title": "blank",
+              "slug": "blank",
+              "type": "page",
+              "order": 4,
+              "source_metadata": {},
+              "metadata": {},
+              "metadata_visibility": {
+                "show_author": true,
+                "show_reading_time": true,
+                "show_publish_date": true,
+                "show_update_date": true,
+                "show_tags": true
+              }
+            },
+            {
+              "id": "e8a1442e-5b9d-4817-bf1f-4e0bc7a88a37",
+              "title": "Analyzing Artifacts and File Systems",
+              "slug": "analyzing-artifacts-file-systems",
+              "type": "page",
+              "order": 2,
+              "source_metadata": {},
+              "metadata": {},
+              "metadata_visibility": {
+                "show_author": true,
+                "show_reading_time": true,
+                "show_publish_date": true,
+                "show_update_date": true,
+                "show_tags": true
+              }
+            }
+          ]
+        },
+        {
+          "id": "c1b7705d-f7f2-4327-9b1c-1390661de401",
+          "version_id": "f6be93f0-a176-4aba-b799-afb928d6e4b4",
+          "name": "User Guideasas",
+          "slug": "user-guideasas",
+          "type": "product_documentation",
+          "icon": "pi pi-exclamation-triangle",
+          "order": 1,
+          "visible": true,
+          "pages": [
+            {
+              "id": "0f46697b-e93f-4aa0-95ed-3f9d22c02bfe",
+              "title": "another one",
+              "slug": "another-one",
+              "type": "folder",
+              "order": 0,
+              "source_metadata": {},
+              "metadata": {},
+              "metadata_visibility": {
+                "show_author": true,
+                "show_reading_time": true,
+                "show_publish_date": true,
+                "show_update_date": true,
+                "show_tags": true
+              }
+            },
+            {
+              "id": "2c19413f-81ef-4359-80f8-2eee90b60c7a",
+              "title": "Firefly Optimization Guide",
+              "slug": "firefly-optimization-guide",
+              "type": "folder",
+              "icon": "activity",
+              "order": 2,
+              "source_metadata": {},
+              "metadata": {},
+              "metadata_visibility": {
+                "show_author": true,
+                "show_reading_time": true,
+                "show_publish_date": true,
+                "show_update_date": true,
+                "show_tags": true
+              }
+            },
+            {
+              "id": "46528546-0bdf-40bd-9977-6864e7261ddc",
+              "title": "sasasas",
+              "slug": "sasasas",
+              "type": "folder",
+              "order": 1,
+              "source_metadata": {},
+              "metadata": {},
+              "metadata_visibility": {
+                "show_author": true,
+                "show_reading_time": true,
+                "show_publish_date": true,
+                "show_update_date": true,
+                "show_tags": true
+              }
+            },
+            {
+              "id": "4b0f2f43-410a-4ea5-8c33-e4e330efc599",
+              "title": "Understanding the Firefly Algorithm",
+              "slug": "understanding-firefly-algorithm",
+              "type": "page",
+              "order": 0,
+              "source_metadata": {
+                "resources": [
+                  {
+                    "resource_id": "bb437e74-b586-4d8a-aecd-395767a082d0",
+                    "resource_name": "firefly.pdf",
+                    "resource_type": "file",
+                    "content_hash": "8e3fe6a9f63fb076b5baa8fbaf680fe1cb8a1c824a2bf6116d4500c1dbd3114d"
+                  }
+                ],
+                "generated_at": "2026-04-20T13:30:11.842735+00:00"
+              },
+              "metadata": {},
+              "metadata_visibility": {
+                "show_author": true,
+                "show_reading_time": true,
+                "show_publish_date": true,
+                "show_update_date": true,
+                "show_tags": true
+              }
+            },
+            {
+              "id": "4eaba559-f89d-4ce5-80db-3763296d8ec3",
+              "title": "mygroup",
+              "slug": "mygroup",
+              "type": "folder",
+              "order": 1,
+              "source_metadata": {},
+              "metadata": {},
+              "metadata_visibility": {
+                "show_author": true,
+                "show_reading_time": true,
+                "show_publish_date": true,
+                "show_update_date": true,
+                "show_tags": true
+              }
+            },
+            {
+              "id": "06b4792f-b376-4876-8d1c-4e692e665fa1",
+              "title": "Tuning Performance Parameters",
+              "slug": "tuning-performance-parameters",
+              "type": "page",
+              "order": 3,
+              "source_metadata": {
+                "resources": [
+                  {
+                    "resource_id": "bb437e74-b586-4d8a-aecd-395767a082d0",
+                    "resource_name": "firefly.pdf",
+                    "resource_type": "file",
+                    "content_hash": "8e3fe6a9f63fb076b5baa8fbaf680fe1cb8a1c824a2bf6116d4500c1dbd3114d"
+                  }
+                ],
+                "generated_at": "2026-04-20T13:30:22.012389+00:00"
+              },
+              "metadata": {},
+              "metadata_visibility": {
+                "show_author": true,
+                "show_reading_time": true,
+                "show_publish_date": true,
+                "show_update_date": true,
+                "show_tags": true
+              }
+            },
+            {
+              "id": "6c9ae581-2ce6-4f16-9670-1b89f5e9a9c1",
+              "title": "mypage",
+              "slug": "mypage",
+              "type": "page",
+              "order": 0,
+              "source_metadata": {},
+              "metadata": {},
+              "metadata_visibility": {
+                "show_author": true,
+                "show_reading_time": true,
+                "show_publish_date": true,
+                "show_update_date": true,
+                "show_tags": true
+              }
+            },
+            {
+              "id": "7f57910a-f0a3-4d99-8248-c854c900d0eb",
+              "title": "newsection",
+              "slug": "newsection",
+              "type": "page",
+              "order": 2,
+              "source_metadata": {},
+              "metadata": {},
+              "metadata_visibility": {
+                "show_author": true,
+                "show_reading_time": true,
+                "show_publish_date": true,
+                "show_update_date": true,
+                "show_tags": true
+              }
+            },
+            {
+              "id": "9e30109c-e47e-45e2-ac38-cbe68c6f0917",
+              "title": "Applying Boundary Constraints",
+              "slug": "applying-boundary-constraints",
+              "type": "page",
+              "order": 1,
+              "source_metadata": {
+                "resources": [
+                  {
+                    "resource_id": "bb437e74-b586-4d8a-aecd-395767a082d0",
+                    "resource_name": "firefly.pdf",
+                    "resource_type": "file",
+                    "content_hash": "8e3fe6a9f63fb076b5baa8fbaf680fe1cb8a1c824a2bf6116d4500c1dbd3114d"
+                  }
+                ],
+                "generated_at": "2026-04-20T13:29:52.934913+00:00"
+              },
+              "metadata": {},
+              "metadata_visibility": {
+                "show_author": true,
+                "show_reading_time": true,
+                "show_publish_date": true,
+                "show_update_date": true,
+                "show_tags": true
+              }
+            },
+            {
+              "id": "e9e85b7e-4d37-4ba0-a600-9460bd8fd3f2",
+              "title": "Evaluating Optimization Results",
+              "slug": "evaluating-optimization-results",
+              "type": "page",
+              "order": 0,
+              "source_metadata": {
+                "resources": [
+                  {
+                    "resource_id": "bb437e74-b586-4d8a-aecd-395767a082d0",
+                    "resource_name": "firefly.pdf",
+                    "resource_type": "file",
+                    "content_hash": "8e3fe6a9f63fb076b5baa8fbaf680fe1cb8a1c824a2bf6116d4500c1dbd3114d"
+                  }
+                ],
+                "generated_at": "2026-04-20T13:30:07.705717+00:00"
+              },
+              "metadata": {},
+              "metadata_visibility": {
+                "show_author": true,
+                "show_reading_time": true,
+                "show_publish_date": true,
+                "show_update_date": true,
+                "show_tags": true
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
